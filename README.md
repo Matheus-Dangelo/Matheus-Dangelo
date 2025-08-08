@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**Matheus-Dangelo/Matheus-Dangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matheus-Dangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS), buscando ampliar meus conhecimentos em programação, bancos de dados e desenvolvimento de software.
+
+👯 Busco colaborar em projetos de tecnologia, especialmente nas áreas de hardware, manutenção, automação e desenvolvimento de sistemas.
+
+🤔 Busco ajuda para aprimorar minhas habilidades de programação e as melhores práticas de desenvolvimento.
+
+💬 Pergunte-me sobre manutenção de computadores, otimização de desempenho, atualizações de hardware e soluções de TI personalizadas.
+
+📫 Como entrar em contato comigo: LinkedIn | [e-mail profissional] (ou o que você quiser colocar aqui).
+
+😄 Pronomes: Ele/Dele.
+
+⚡ Curiosidade: sou apaixonada por tecnologia desde criança e sempre gostei de desmontar e montar dispositivos para entender como eles funcionam — e sim, às vezes sobravam peças no começo!
